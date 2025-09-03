@@ -27,3 +27,5 @@ python main.py
 ## Why tho?
 
 Because sometimes scrolling the site is a headache, and having data in Excel just feels **✨chef’s kiss✨**. Plus, it’s way easier to flex charts & analysis for school, work, or… idk, your TikTok content?
+
+**SOON : MAKE IT SCHEDULER**
