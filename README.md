@@ -5,7 +5,7 @@ So I wrote a lil’ Python gremlin that sneaks into `search.kompas.com`, grabs t
 
 ## ⚡️ What it does
 
-- Scrapes the latest **articles from Kompas search (berita hari ini)
+- Scrapes the latest **articles** from Kompas search (berita hari ini)
 
 - Pulls the title, link, genre, and date
 
